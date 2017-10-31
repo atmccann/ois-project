@@ -1,0 +1,722 @@
+[
+  {
+    "artist": "The Beatles",
+    "peak_year": "1964",
+    "norm_streams": "1",
+    "track": "Hey Jude - Remastered 2015"
+  },
+  {
+    "artist": "Queen",
+    "peak_year": "1980",
+    "norm_streams": "0.897024524",
+    "track": "Bohemian Rhapsody"
+  },
+  {
+    "artist": "Michael Jackson",
+    "peak_year": "1982",
+    "norm_streams": "0.722787232",
+    "track": "Billie Jean"
+  },
+  {
+    "artist": "AC/DC",
+    "peak_year": "1980",
+    "norm_streams": "0.669708241",
+    "track": "Highway to Hell"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "peak_year": "1969",
+    "norm_streams": "0.602347631",
+    "track": "Stairway To Heaven"
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "peak_year": "1977",
+    "norm_streams": "0.526212566",
+    "track": "The Chain - 2004 Remastered Edition"
+  },
+  {
+    "artist": "Pink Floyd",
+    "peak_year": "1973",
+    "norm_streams": "0.493278645",
+    "track": "Wish You Were Here"
+  },
+  {
+    "artist": "Billy Joel",
+    "peak_year": "1983",
+    "norm_streams": "0.460392407",
+    "track": "Vienna"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "peak_year": "1965",
+    "norm_streams": "0.446528014",
+    "track": "Paint It, Black - (Original Single Mono Version)"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "peak_year": "1969",
+    "norm_streams": "0.434856594",
+    "track": "Fortunate Son"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "peak_year": "1976",
+    "norm_streams": "0.379376295",
+    "track": "Free Bird"
+  },
+  {
+    "artist": "Journey",
+    "peak_year": "1981",
+    "norm_streams": "0.366924567",
+    "track": "Don't Stop Believin'"
+  },
+  {
+    "artist": "Elton John",
+    "peak_year": "1972",
+    "norm_streams": "0.354810185",
+    "track": "Rocket Man (I Think It's Going To Be A Long Long Time)"
+  },
+  {
+    "artist": "Bob Marley & The Wailers",
+    "peak_year": "1978",
+    "norm_streams": "0.344977458",
+    "track": "Three Little Birds"
+  },
+  {
+    "artist": "Eagles",
+    "peak_year": "1976",
+    "norm_streams": "0.337981647",
+    "track": "Hotel California"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "peak_year": "1979",
+    "norm_streams": "0.294339993",
+    "track": "September"
+  },
+  {
+    "artist": "Daryl Hall & John Oates",
+    "peak_year": "1984",
+    "norm_streams": "0.284761724",
+    "track": "You Make My Dreams - Remastered"
+  },
+  {
+    "artist": "Aerosmith",
+    "peak_year": "1987",
+    "norm_streams": "0.274637885",
+    "track": "Dream On"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "peak_year": "1973",
+    "norm_streams": "0.251261177",
+    "track": "Ain't No Mountain High Enough"
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "peak_year": "1971",
+    "norm_streams": "0.244259684",
+    "track": "All Along the Watchtower"
+  },
+  {
+    "artist": "Bon Jovi",
+    "peak_year": "1988",
+    "norm_streams": "0.218523447",
+    "track": "You Give Love A Bad Name"
+  },
+  {
+    "artist": "Metallica",
+    "peak_year": "1991",
+    "norm_streams": "0.216082923",
+    "track": "One"
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "peak_year": "1980",
+    "norm_streams": "0.211100939",
+    "track": "Mr. Blue Sky"
+  },
+  {
+    "artist": "The Jackson 5",
+    "peak_year": "1970",
+    "norm_streams": "0.208178907",
+    "track": "Big Boy"
+  },
+  {
+    "artist": "Toto",
+    "peak_year": "1982",
+    "norm_streams": "0.196655661",
+    "track": "Africa"
+  },
+  {
+    "artist": "The Beach Boys",
+    "peak_year": "1966",
+    "norm_streams": "0.191989967",
+    "track": "Wouldn't It Be Nice - 2000 - Remaster"
+  },
+  {
+    "artist": "Van Halen",
+    "peak_year": "1983",
+    "norm_streams": "0.179241891",
+    "track": "Panama - 2015 Remastered Version"
+  },
+  {
+    "artist": "The Police",
+    "peak_year": "1983",
+    "norm_streams": "0.16499726",
+    "track": "Roxanne - Remastered 2003"
+  },
+  {
+    "artist": "David Bowie",
+    "peak_year": "1973",
+    "norm_streams": "0.164457484",
+    "track": "Moonage Daydream - 2012 Remastered Version"
+  },
+  {
+    "artist": "Black Sabbath",
+    "peak_year": "1970",
+    "norm_streams": "0.16365144",
+    "track": "Paranoid - Remastered Version"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "peak_year": "1961",
+    "norm_streams": "0.162712263",
+    "track": "My Way"
+  },
+  {
+    "artist": "Elvis Presley",
+    "peak_year": "1956",
+    "norm_streams": "0.160948772",
+    "track": "Can't Help Falling in Love"
+  },
+  {
+    "artist": "Johnny Cash",
+    "peak_year": "1969",
+    "norm_streams": "0.160556389",
+    "track": "Hurt"
+  },
+  {
+    "artist": "Van Morrison",
+    "peak_year": "1970",
+    "norm_streams": "0.155169657",
+    "track": "Brown Eyed Girl"
+  },
+  {
+    "artist": "The Who",
+    "peak_year": "1971",
+    "norm_streams": "0.153596564",
+    "track": "Baba O'Riley"
+  },
+  {
+    "artist": "Steve Miller Band",
+    "peak_year": "1977",
+    "norm_streams": "0.152345553",
+    "track": "The Joker"
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "peak_year": "1970",
+    "norm_streams": "0.14814009",
+    "track": "The Sound of Silence"
+  },
+  {
+    "artist": "Kansas",
+    "peak_year": "2002",
+    "norm_streams": "0.147036139",
+    "track": "Carry on Wayward Son"
+  },
+  {
+    "artist": "The Temptations",
+    "peak_year": "1973",
+    "norm_streams": "0.141265157",
+    "track": "My Girl"
+  },
+  {
+    "artist": "Bill Withers",
+    "peak_year": "1972",
+    "norm_streams": "0.13970131",
+    "track": "Lean on Me"
+  },
+  {
+    "artist": "Boston",
+    "peak_year": "1976",
+    "norm_streams": "0.139287315",
+    "track": "More Than a Feeling"
+  },
+  {
+    "artist": "Oasis",
+    "peak_year": "1993",
+    "norm_streams": "0.138463892",
+    "track": "Wonderwall - Remastered"
+  },
+  {
+    "artist": "The Clash",
+    "peak_year": "1979",
+    "norm_streams": "0.1329799",
+    "track": "Should I Stay or Should I Go - Remastered"
+  },
+  {
+    "artist": "Prince",
+    "peak_year": "1987",
+    "norm_streams": "0.132380743",
+    "track": "Kiss"
+  },
+  {
+    "artist": "Kenny Loggins",
+    "peak_year": "1985",
+    "norm_streams": "0.131643438",
+    "track": "Danger Zone"
+  },
+  {
+    "artist": "Blue Öyster Cult",
+    "peak_year": "1976",
+    "norm_streams": "0.120820732",
+    "track": "(Don't Fear) The Reaper"
+  },
+  {
+    "artist": "Sam Cooke",
+    "peak_year": "1963",
+    "norm_streams": "0.118490503",
+    "track": "(What A) Wonderful World"
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "peak_year": "1980",
+    "norm_streams": "0.116862039",
+    "track": "Crazy Train - Remastered"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "peak_year": "1972",
+    "norm_streams": "0.115960295",
+    "track": "Signed, Sealed, Delivered (I'm Yours)"
+  },
+  {
+    "artist": "Alabama",
+    "peak_year": "",
+    "norm_streams": "0.114323364",
+    "track": "Song of the South"
+  },
+  {
+    "artist": "The Doors",
+    "peak_year": "1967",
+    "norm_streams": "0.112028006",
+    "track": "Break On Through (To The Other Side)"
+  },
+  {
+    "artist": "Blue Swede",
+    "peak_year": "",
+    "norm_streams": "0.111106989",
+    "track": "Hooked on a Feeling"
+  },
+  {
+    "artist": "Neil Diamond",
+    "peak_year": "",
+    "norm_streams": "0.109450116",
+    "track": "Sweet Caroline"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "peak_year": "1984",
+    "norm_streams": "0.109395191",
+    "track": "Born in the U.S.A."
+  },
+  {
+    "artist": "Hank Williams, Jr.",
+    "peak_year": "",
+    "norm_streams": "0.108524531",
+    "track": "A Country Boy Can Survive"
+  },
+  {
+    "artist": "The Doobie Brothers",
+    "peak_year": "",
+    "norm_streams": "0.106574763",
+    "track": "Listen To The Music"
+  },
+  {
+    "artist": "a-ha",
+    "peak_year": "1985",
+    "norm_streams": "0.105055257",
+    "track": "Take On Me"
+  },
+  {
+    "artist": "The Animals",
+    "peak_year": "1965",
+    "norm_streams": "0.10453598",
+    "track": "House Of The Rising Sun"
+  },
+  {
+    "artist": "Rick Springfield",
+    "peak_year": "",
+    "norm_streams": "0.102834878",
+    "track": "Jessie's Girl"
+  },
+  {
+    "artist": "Eurythmics",
+    "peak_year": "1983",
+    "norm_streams": "0.102563597",
+    "track": "Sweet Dreams (Are Made of This) - Remastered"
+  },
+  {
+    "artist": "Phil Collins",
+    "peak_year": "1985",
+    "norm_streams": "0.099763445",
+    "track": "In The Air Tonight - 2015 Remastered"
+  },
+  {
+    "artist": "Paul Simon",
+    "peak_year": "1986",
+    "norm_streams": "0.098863261",
+    "track": "You Can Call Me Al"
+  },
+  {
+    "artist": "Dexys Midnight Runners",
+    "peak_year": "1982",
+    "norm_streams": "0.098104567",
+    "track": "Come On Eileen"
+  },
+  {
+    "artist": "John Mellencamp",
+    "peak_year": "",
+    "norm_streams": "0.096899902",
+    "track": "Jack & Diane"
+  },
+  {
+    "artist": "Foreigner",
+    "peak_year": "1981",
+    "norm_streams": "0.094537922",
+    "track": "Juke Box Hero"
+  },
+  {
+    "artist": "Bob Dylan",
+    "peak_year": "1965",
+    "norm_streams": "0.088766941",
+    "track": "Don't Think Twice, It's All Right"
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "peak_year": "1983",
+    "norm_streams": "0.088151295",
+    "track": "Girls Just Want to Have Fun"
+  },
+  {
+    "artist": "ZZ Top",
+    "peak_year": "1983",
+    "norm_streams": "0.088134138",
+    "track": "Sharp Dressed Man - 2008 Remastered Version"
+  },
+  {
+    "artist": "Survivor",
+    "peak_year": "1984",
+    "norm_streams": "0.087133575",
+    "track": "Eye of the Tiger"
+  },
+  {
+    "artist": "Frankie Valli & The Four Seasons",
+    "peak_year": "",
+    "norm_streams": "0.086678804",
+    "track": "December, 1963 (Oh What A Night!)"
+  },
+  {
+    "artist": "Otis Redding",
+    "peak_year": "1968",
+    "norm_streams": "0.086340009",
+    "track": "Stand By Me"
+  },
+  {
+    "artist": "The Allman Brothers Band",
+    "peak_year": "",
+    "norm_streams": "0.086120979",
+    "track": "Ramblin' Man"
+  },
+  {
+    "artist": "Beastie Boys",
+    "peak_year": "1986",
+    "norm_streams": "0.085217119",
+    "track": "Sabotage"
+  },
+  {
+    "artist": "Norman Greenbaum",
+    "peak_year": "",
+    "norm_streams": "0.084995192",
+    "track": "Spirit in the Sky"
+  },
+  {
+    "artist": "Bryan Adams",
+    "peak_year": "1984",
+    "norm_streams": "0.082716769",
+    "track": "Summer Of '69"
+  },
+  {
+    "artist": "Yusuf / Cat Stevens",
+    "peak_year": "",
+    "norm_streams": "0.081525362",
+    "track": "Father And Son"
+  },
+  {
+    "artist": "Tears For Fears",
+    "peak_year": "1985",
+    "norm_streams": "0.080744942",
+    "track": "Everybody Wants To Rule The World"
+  },
+  {
+    "artist": "KISS",
+    "peak_year": "1976",
+    "norm_streams": "0.080606907",
+    "track": "God of Thunder - Live"
+  },
+  {
+    "artist": "Iron Maiden",
+    "peak_year": "",
+    "norm_streams": "0.080375622",
+    "track": "The Trooper - 1998 Remastered Version"
+  },
+  {
+    "artist": "Steppenwolf",
+    "peak_year": "",
+    "norm_streams": "0.080363478",
+    "track": "Born To Be Wild"
+  },
+  {
+    "artist": "Rage Against The Machine",
+    "peak_year": "1992",
+    "norm_streams": "0.07948747",
+    "track": "Killing In The Name - Remastered"
+  },
+  {
+    "artist": "Styx",
+    "peak_year": "",
+    "norm_streams": "0.076836161",
+    "track": "Renegade"
+  },
+  {
+    "artist": "Men At Work",
+    "peak_year": "1981",
+    "norm_streams": "0.076603539",
+    "track": "Down Under"
+  },
+  {
+    "artist": "Ben E. King",
+    "peak_year": "1975",
+    "norm_streams": "0.076552625",
+    "track": "Stand By Me"
+  },
+  {
+    "artist": "Rush",
+    "peak_year": "1981",
+    "norm_streams": "0.076413921",
+    "track": "Tom Sawyer"
+  },
+  {
+    "artist": "Steely Dan",
+    "peak_year": "",
+    "norm_streams": "0.075357319",
+    "track": "Reelin' In The Years"
+  },
+  {
+    "artist": "Wham!",
+    "peak_year": "1984",
+    "norm_streams": "0.074670706",
+    "track": "Wake Me up Before You Go-Go"
+  },
+  {
+    "artist": "Dire Straits",
+    "peak_year": "1985",
+    "norm_streams": "0.073183063",
+    "track": "Sultans Of Swing"
+  },
+  {
+    "artist": "Eric Clapton",
+    "peak_year": "1974",
+    "norm_streams": "0.072454671",
+    "track": "Cocaine"
+  },
+  {
+    "artist": "Rupert Holmes",
+    "peak_year": "",
+    "norm_streams": "0.071620107",
+    "track": "Escape (The Pina Colada Song)"
+  },
+  {
+    "artist": "The Smiths",
+    "peak_year": "1985",
+    "norm_streams": "0.071303372",
+    "track": "There Is A Light That Never Goes Out - 2011 Remastered Version"
+  },
+  {
+    "artist": "Don McLean",
+    "peak_year": "",
+    "norm_streams": "0.071275519",
+    "track": "American Pie"
+  },
+  {
+    "artist": "Looking Glass",
+    "peak_year": "",
+    "norm_streams": "0.070588349",
+    "track": "Brandy (You're A Fine Girl)"
+  },
+  {
+    "artist": "ABBA",
+    "peak_year": "1979",
+    "norm_streams": "0.070500225",
+    "track": "Dancing Queen"
+  },
+  {
+    "artist": "Cream",
+    "peak_year": "",
+    "norm_streams": "0.070492426",
+    "track": "Sunshine Of Your Love"
+  },
+  {
+    "artist": "Talking Heads",
+    "peak_year": "1985",
+    "norm_streams": "0.069835225",
+    "track": "This Must Be The Place (Naive Melody) - 2005 Remastered Version"
+  },
+  {
+    "artist": "Al Green",
+    "peak_year": "",
+    "norm_streams": "0.06752583",
+    "track": "Let's Stay Together"
+  },
+  {
+    "artist": "The Outfield",
+    "peak_year": "",
+    "norm_streams": "0.066323171",
+    "track": "Your Love"
+  },
+  {
+    "artist": "REO Speedwagon",
+    "peak_year": "",
+    "norm_streams": "0.065118952",
+    "track": "Keep on Loving You - Remastered"
+  },
+  {
+    "artist": "George Harrison",
+    "peak_year": "1987",
+    "norm_streams": "0.064423315",
+    "track": "My Sweet Lord"
+  },
+  {
+    "artist": "Louis Armstrong",
+    "peak_year": "1968",
+    "norm_streams": "0.064140225",
+    "track": "La Vie En Rose - Single Version"
+  },
+  {
+    "artist": "UB40",
+    "peak_year": "1983",
+    "norm_streams": "0.06357527",
+    "track": "Red Red Wine - Edit"
+  },
+  {
+    "artist": "James Taylor",
+    "peak_year": "",
+    "norm_streams": "0.061613471",
+    "track": "Fire And Rain"
+  },
+  {
+    "artist": "America",
+    "peak_year": "",
+    "norm_streams": "0.06109943",
+    "track": "A Horse with No Name"
+  },
+  {
+    "artist": "Commodores",
+    "peak_year": "",
+    "norm_streams": "0.059294494",
+    "track": "Easy"
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "peak_year": "",
+    "norm_streams": "0.058971186",
+    "track": "Total Eclipse of the Heart"
+  },
+  {
+    "artist": "Dolly Parton",
+    "peak_year": "1987",
+    "norm_streams": "0.058674281",
+    "track": "Jolene"
+  },
+  {
+    "artist": "Heart",
+    "peak_year": "",
+    "norm_streams": "0.057417031",
+    "track": "Barracuda"
+  },
+  {
+    "artist": "Brian Eno",
+    "peak_year": "1975",
+    "norm_streams": "0.056182398",
+    "track": "Signals - 2005 Digital Remaster"
+  },
+  {
+    "artist": "The Charlie Daniels Band",
+    "peak_year": "",
+    "norm_streams": "0.055973172",
+    "track": "The Devil Went Down to Georgia"
+  },
+  {
+    "artist": "Tom Petty and the Heartbreakers",
+    "peak_year": "1985",
+    "norm_streams": "0.05594298",
+    "track": "Mary Jane's Last Dance"
+  },
+  {
+    "artist": "Run–D.M.C.",
+    "peak_year": "",
+    "norm_streams": "0.055891621",
+    "track": "It's Tricky"
+  },
+  {
+    "artist": "Bob Seger",
+    "peak_year": "",
+    "norm_streams": "0.055831794",
+    "track": "Night Moves"
+  },
+  {
+    "artist": "Etta James",
+    "peak_year": "",
+    "norm_streams": "0.054710686",
+    "track": "At Last - Single Version"
+  },
+  {
+    "artist": "Sweet",
+    "peak_year": "",
+    "norm_streams": "0.053755243",
+    "track": "Fox On The Run"
+  },
+  {
+    "artist": "Buffalo Springfield",
+    "peak_year": "",
+    "norm_streams": "0.053719035",
+    "track": "For What It's Worth"
+  },
+  {
+    "artist": "Mötley Crüe",
+    "peak_year": "1989",
+    "norm_streams": "0.052964797",
+    "track": "Kickstart My Heart"
+  },
+  {
+    "artist": "Simple Minds",
+    "peak_year": "",
+    "norm_streams": "0.052743316",
+    "track": "Don't You (Forget About Me)"
+  },
+  {
+    "artist": "Eddie Money",
+    "peak_year": "",
+    "norm_streams": "0.052707554",
+    "track": "Take Me Home Tonight"
+  },
+  {
+    "artist": "Cheap Trick",
+    "peak_year": "",
+    "norm_streams": "0.051835779",
+    "track": "Surrender"
+  }
+]
