@@ -1,11 +1,173 @@
 @import "includes/base";
 
+@font-face {
+	font-family: "FoundersGroteskCondensedWeb-Bold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Bold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Bold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskCondensedWeb-Semibold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Semibold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Semibold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Semibold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskCondensedWeb-Medium";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Medium.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Medium.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Medium.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskCondensedWeb-Regular";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Regular.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Regular.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Regular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskCondensedWeb-Light";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Light.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Light.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskCondensedWeb-Light.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskMonoWeb-Bold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Bold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Bold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskMonoWeb-Light";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Light.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Light.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Light.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskMonoWeb-Medium";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Medium.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Medium.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Medium.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskMonoWeb-Regular";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Regular.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Regular.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Regular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskMonoWeb-Semibold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Semibold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Semibold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskMonoWeb-Semibold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-Bold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Bold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Bold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-BoldItalic";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-BoldItalic.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-BoldItalic.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-Light";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Light.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Light.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Light.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-LightItalic";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-LightItalic.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-LightItalic.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-LightItalic.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-Medium";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Medium.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Medium.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Medium.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-MediumItalic";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-MediumItalic.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-MediumItalic.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-Regular";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Regular.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Regular.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Regular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-RegularItalic";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-RegularItalic.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-RegularItalic.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-RegularItalic.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-Semibold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Semibold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Semibold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Semibold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-SemiboldItalic";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-SemiboldItalic.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-SemiboldItalic.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-SemiboldItalic.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-Bold";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Bold.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Bold.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskTextWeb-BoldItalic";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-BoldItalic.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-BoldItalic.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskTextWeb-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FoundersGroteskWeb-Light";
+	src: url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskWeb-Light.eot?") format("eot"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskWeb-Light.woff2") format("woff2"),
+		 url("http://vicenews.graphics.s3.amazonaws.com/fonts/FoundersGroteskWeb-Light.woff") format("woff");
+}
+
+
 header {
 	h1 {
-		font-weight: 300;
+		font-family: "Helvetica";
 		text-align: center;
 		font-size: 60px;
-		color: red;
+		color: black;
 	}
 }
 
